@@ -1,0 +1,19 @@
+{
+  "name": "chatty",
+  "version": "1.0.0",
+  "description": "This is the chat application for the learning purpose of fill stack mern development",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ojasweethapa01/chatty.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ojasweethapa01/chatty/issues"
+  },
+  "homepage": "https://github.com/ojasweethapa01/chatty#readme"
+}
